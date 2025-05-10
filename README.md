@@ -6,12 +6,12 @@ Description: 🔵 A clean, interactive profile card with a toggleable "Add Frien
 
 A simple interactive profile card with a friend request button that toggles between "Add Friend" and "Remove Friend" states.
 
-[![Project Screenshot](file:///F:/Downloads/My%20projects%20Files/JavaScript%20Projects/Add%20Friend%20Request%20feature%20Profile%20Java%20Project/Index.html)
+[![Project Screenshot]()
 
 
 
 ## 🌐 View Project Live  
-➡️ **[Click here to try it!](file:///F:/Downloads/My%20projects%20Files/JavaScript%20Projects/Add%20Friend%20Request%20feature%20Profile%20Java%20Project/Index.html)** 
+➡️ **[Click here to try it!]()** 
 
 ## Features
 
