@@ -11,7 +11,7 @@ A simple interactive profile card with a friend request button that toggles betw
 
 
 ## 🌐 View Project Live  
-➡️ **[Click here to try it!](https://ydvshiva.netlify.app/)** 
+➡️ **[Click here to try it!](https://add-friendrequest-button.netlify.app/)** 
 
 ## Features
 
