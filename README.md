@@ -11,7 +11,7 @@ A simple interactive profile card with a friend request button that toggles betw
 
 
 ## 🌐 View Project Live  
-➡️ **[Click here to try it!](https://github.com/shiva-ydv/Friend-request-button.git)** 
+➡️ **[Click here to try it!](file:///F:/Downloads/My%20projects%20Files/JavaScript%20Projects/Add%20Friend%20Request%20feature%20Profile%20Java%20Project/Index.html)** 
 
 ## Features
 
