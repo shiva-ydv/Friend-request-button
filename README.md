@@ -6,7 +6,7 @@ Description: 🔵 A clean, interactive profile card with a toggleable "Add Frien
 
 A simple interactive profile card with a friend request button that toggles between "Add Friend" and "Remove Friend" states.
 
-[![Project Screenshot[]()](https://github.com/shiva-ydv/Friend-request-button/blob/main/Add%20Friend%20Request%20feature%20Profile%20Java%20Project/Screenshot%202025-05-10%20111116.png)
+[![Project Screenshot[Project Screenshot]()](https://github.com/shiva-ydv/Friend-request-button/blob/main/Add%20Friend%20Request%20feature%20Profile%20Java%20Project/Screenshot%202025-05-10%20111116.png)
 
 
 
