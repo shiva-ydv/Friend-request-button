@@ -8,9 +8,7 @@ A simple interactive profile card with a friend request button that toggles betw
 
 ![Project Screenshot](https://photosmine.in/wp-content/uploads/Smiling-Instagram-Girl-DP-1.jpg) 
 
-## Live Demo
 
-[View Project Live](file:///F:/Downloads/My%20projects%20Files/JavaScript%20Projects/Add%20Friend%20Request%20feature%20Profile%20Java%20Project/Index.html) 
 
 ## 🌐 View Project Live  
 ➡️ **[Click here to try it!](https://github.com/shiva-ydv/Friend-request-button.git)** 
